@@ -1,0 +1,6 @@
+customtkinter
+tkinter
+validators
+beautifulsoup4
+requests
+xml.etree.ElementTree
