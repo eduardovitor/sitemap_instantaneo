@@ -3,4 +3,4 @@ tk
 validators
 beautifulsoup4
 requests
-xml.etree.ElementTree
+elementpath
