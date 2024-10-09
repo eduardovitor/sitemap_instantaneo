@@ -1,5 +1,5 @@
 customtkinter
-tkinter
+tk
 validators
 beautifulsoup4
 requests
