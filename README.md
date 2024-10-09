@@ -45,6 +45,10 @@ Alternativamente, se você for um desenvolvedor e deseja testar o projeto em um 
 1. Crie um ambiente virtual e instale as dependências
 
 ```shell
+cd src
+```
+
+```shell
 python -m venv sitemap_instantaneo
 ```
 
