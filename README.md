@@ -36,7 +36,7 @@ Como utilizar?
 Esse projeto foi desenvolvido usando diversas tecnologias. 
 Para o frontend, foi utilizada a biblioteca CustomTkinter para a construção de uma interface desktop moderna. 
 
-Para o backend, foram usadas as bibliotecas BeautifulSoup, requests, validators e xml.etree.ElementTree.
+Para o backend, foram usadas as bibliotecas BeautifulSoup, requests, validators e elementpath.
 
 Para executar o projeto nas plataformas Windows ou Linux, você pode baixar as releases com o software portável. Além disso, você pode baixar as releases instaláveis. 
 
@@ -85,4 +85,4 @@ O único colaborador desse projeto sou eu (Eduardo Vitor).
 
 [validators](https://pypi.org/project/requests/)
 
-[xml.etree.ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html)
+[elementpath](https://pypi.org/project/elementpath/)
